@@ -1,0 +1,112 @@
+[
+  {
+    "class_name": "Hatha Yoga Flow",
+    "class_image": "https://i.ibb.co/cyHJmbC/class-img-1.webp",
+    "instructor_name": "Sarah Johnson",
+    "instructor_email": "sarah.johnson@example.com",
+    "avilable_seats": 15,
+    "enroll": 0,
+    "price": 12,
+    "status": "active",
+    "description": "Join us for a dynamic Hatha Yoga Flow class that focuses on connecting breath with movement. Suitable for all levels, this class combines traditional Hatha Yoga poses with fluid sequences to improve flexibility, strength, and balance. Experience a sense of calm and rejuvenation as you synchronize body and mind."
+  },
+  {
+    "class_name": "Vinyasa Power Yoga",
+    "class_image": "https://i.ibb.co/T4YVTXq/class-img-2.webp",
+    "instructor_name": "Michael Brown",
+    "instructor_email": "michael.brown@example.com",
+    "avilable_seats": 12,
+    "enroll": 0,
+    "price": 15,
+    "status": "active",
+    "description": "Experience the dynamic and energetic practice of Vinyasa Power Yoga. This class combines flowing sequences with powerful postures, focusing on strength, endurance, and breath control. Suitable for those looking for a challenging and invigorating yoga practice."
+  },
+  {
+    "class_name": "Yin and Restorative Yoga",
+    "class_image": "https://i.ibb.co/dfDhTZD/class-img-3.webp",
+    "instructor_name": "Emily Davis",
+    "instructor_email": "emily.davis@example.com",
+    "avilable_seats": 10,
+    "enroll": 0,
+    "price": 10,
+    "status": "active",
+    "description": "Unwind and relax with Yin and Restorative Yoga. This gentle and calming practice focuses on deep stretching and long-held poses to release tension and promote relaxation. Suitable for all levels, this class is perfect for those seeking a peaceful and rejuvenating yoga experience."
+  },
+  {
+    "class_name": "Ashtanga Yoga Series",
+    "class_image": "https://i.ibb.co/1Q62h5B/class-img-12.jpg",
+    "instructor_name": "David Wilson",
+    "instructor_email": "david.wilson@example.com",
+    "avilable_seats": 15,
+    "enroll": 0,
+    "price": 12,
+    "status": "active",
+    "description": "Embark on a dynamic and structured practice with the Ashtanga Yoga Series. This traditional style of yoga follows a specific sequence of poses combined with synchronized breath. Experience strength, flexibility, and focus as you progress through the series. Suitable for intermediate and advanced practitioners."
+  },
+  {
+    "class_name": "Kundalini Awakening Yoga",
+    "class_image": "https://i.ibb.co/2F9GSQy/class-img-5.jpg",
+    "instructor_name": "Sophia Ramirez",
+    "instructor_email": "sophia.ramirez@example.com",
+    "avilable_seats": 10,
+    "enroll": 0,
+    "price": 12,
+    "status": "active",
+    "description": "Awaken your spiritual energy with Kundalini Yoga. This transformative practice combines dynamic movements, breathwork, meditation, and chanting to elevate consciousness and promote self-awareness. Experience the union of body, mind, and spirit in this powerful practice."
+  },
+  {
+    "class_name": "Bikram Hot Yoga",
+    "class_image": "https://i.ibb.co/19Dpdvv/class-img-6.jpg",
+    "instructor_name": "Daniel Thompson",
+    "instructor_email": "daniel.thompson@example.com",
+    "avilable_seats": 20,
+    "enroll": 0,
+    "price": 18,
+    "status": "active",
+    "description": "Experience the detoxifying and challenging practice of Bikram Hot Yoga. In a heated room, this practice consists of a series of 26 postures and two breathing exercises. The heat helps to warm up the muscles, improve flexibility, and release toxins. Prepare to sweat and leave feeling revitalized."
+  },
+  {
+    "class_name": "Gentle Yoga for Beginners",
+    "class_image": "https://i.ibb.co/sjV3X6c/class-img-7.jpg",
+    "instructor_name": "Olivia Collins",
+    "instructor_email": "olivia.collins@example.com",
+    "avilable_seats": 15,
+    "enroll": 0,
+    "price": 10,
+    "status": "active",
+    "description": "Start your yoga journey with Gentle Yoga for Beginners. This class introduces foundational yoga poses, breathing techniques, and relaxation exercises. Designed for those new to yoga, it provides a safe and supportive environment to explore the benefits of yoga at a comfortable pace."
+  },
+  {
+    "class_name": "Yoga Sculpt",
+    "class_image": "https://i.ibb.co/m8Tpfb1/class-img-8.webp",
+    "instructor_name": "Benjamin Lee",
+    "instructor_email": "benjamin.lee@example.com",
+    "avilable_seats": 12,
+    "enroll": 0,
+    "price": 15,
+    "status": "active",
+    "description": "Combine yoga and strength training in Yoga Sculpt. This class incorporates yoga poses with resistance exercises and cardio bursts to build strength, increase endurance, and improve flexibility. Get ready for a challenging and dynamic full-body workout."
+  },
+  {
+    "class_name": "Meditation and Mindfulness",
+    "class_image": "https://i.ibb.co/R9QwfM9/class-img-9.jpg",
+    "instructor_name": "Sophie Turner",
+    "instructor_email": "sophie.turner@example.com",
+    "avilable_seats": 10,
+    "enroll": 0,
+    "price": 12,
+    "status": "active",
+    "description": "Discover inner peace and tranquility through Meditation and Mindfulness. This class introduces various meditation techniques, breathwork, and mindfulness practices to reduce stress, enhance focus, and promote overall well-being. Cultivate a sense of calm and clarity in your daily life."
+  },
+  {
+    "class_name": "Yoga for Seniors",
+    "class_image": "https://i.ibb.co/Fxn4F31/class-img.webp",
+    "instructor_name": "Lillian Thompson",
+    "instructor_email": "lillian.thompson@example.com",
+    "avilable_seats": 10,
+    "enroll": 0,
+    "price": 10,
+    "status": "active",
+    "description": "Enjoy the benefits of yoga at a gentle pace with Yoga for Seniors. This class focuses on gentle stretches, modified poses, and breathwork to improve flexibility, balance, and overall well-being. Connect with a supportive community and enhance your physical and mental vitality."
+  }
+]
